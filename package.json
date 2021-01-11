@@ -1,0 +1,52 @@
+{
+    "name": "cybervision",
+    "displayName": "Cybervision",
+    "description": "A colorful cyberpunk theme.",
+    "version": "0.0.2",
+    "homepage": "https://github.com/NadezhdaGeorgieva/cybervisual-vs-code#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NadezhdaGeorgieva/cybervisual-vs-code.git"
+    },
+    "bugs": {
+        "url": "https://github.com/NadezhdaGeorgieva/cybervisual-vs-code/issues"
+    },
+    "icon": "icon.png",
+    "publisher": "altcoda",
+    "author": {
+        "name": "altcoda"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cybervision",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cybervision-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "jquery": "^3.5.1"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "cyberpunk",
+        "colorful",
+        "bright",
+        "darkblue",
+        "cyan",
+        "yellow",
+        "pink",
+        "purple",
+        "futuristic",
+        "retro"
+    ]
+}
