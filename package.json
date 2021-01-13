@@ -2,7 +2,7 @@
     "name": "cybervision",
     "displayName": "Cybervision",
     "description": "A colorful cyberpunk theme.",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "homepage": "https://github.com/NadezhdaGeorgieva/cybervision-vs-code#readme",
     "repository": {
         "type": "git",
@@ -18,7 +18,7 @@
     },
     "license": "MIT",
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "^1.52.0"
     },
     "categories": [
         "Themes"
@@ -31,9 +31,6 @@
                 "path": "./themes/Cybervision-color-theme.json"
             }
         ]
-    },
-    "dependencies": {
-        "jquery": "^3.5.1"
     },
     "keywords": [
         "theme",

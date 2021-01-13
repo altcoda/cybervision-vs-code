@@ -1,13 +1,13 @@
 # Cybervision for VS Code
 
-> A dark, yet colorful cyberpunk theme.  
+> A dark, yet colorful cyberpunk theme.
 
-![theme screenshot preview](https://i.ibb.co/d6bRj2h/preview.png)
+![theme screenshot preview](https://i.ibb.co/MN34FZ0/preview.png)
 
 
 > background ~ ![#01000a](https://via.placeholder.com/15/01000a/000000?text=+) `#01000a` 
 
-> highlight and synthax ~ ![#00FFFF](https://via.placeholder.com/15/00FFFF/000000?text=+) `#00FFFF` ![#0077FF](https://via.placeholder.com/15/0077FF/000000?text=+) `#0077FF` ![#E5FF00](https://via.placeholder.com/15/E5FF00/000000?text=+) `#E5FF00` ![#FF00C8](https://via.placeholder.com/15/FF00C8/000000?text=+) `#FF00C8` ![#AD58D4](https://via.placeholder.com/15/AD58D4/000000?text=+) `#AD58D4`
+> highlight and syntax ~ ![#00FFFF](https://via.placeholder.com/15/00FFFF/000000?text=+) `#00FFFF` ![#0077FF](https://via.placeholder.com/15/0077FF/000000?text=+) `#0077FF` ![#E5FF00](https://via.placeholder.com/15/E5FF00/000000?text=+) `#E5FF00` ![#FF00C8](https://via.placeholder.com/15/FF00C8/000000?text=+) `#FF00C8`
 
 # Recommended
 
