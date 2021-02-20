@@ -3,13 +3,13 @@
     "displayName": "Cybervision",
     "description": "A colorful cyberpunk theme.",
     "version": "1.0.4",
-    "homepage": "https://github.com/NadezhdaGeorgieva/cybervision-vs-code#readme",
+    "homepage": "https://github.com/altcoda/cybervision-vs-code#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NadezhdaGeorgieva/cybervision-vs-code.git"
+        "url": "https://github.com/altcoda/cybervision-vs-code.git"
     },
     "bugs": {
-        "url": "https://github.com/NadezhdaGeorgieva/cybervision-vs-code/issues"
+        "url": "https://github.com/altcoda/cybervision-vs-code/issues"
     },
     "icon": "icon.png",
     "publisher": "altcoda",
