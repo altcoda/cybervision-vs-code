@@ -1,13 +1,10 @@
 # Cybervision for VS Code
 
-<center>A dark, colorful theme inspired by cyberpunk and the 80-s.
-<br />&nbsp;
+A dark, colorful theme inspired by cyberpunk and the 80-s.
 
 ![theme screenshot preview](https://i.ibb.co/vdQcG9H/preview.png)
 
-
 ![#01000A](https://via.placeholder.com/15/01000A/000000?text=+) `#01000A` ![#00FFFF](https://via.placeholder.com/15/00FFFF/000000?text=+) `#00FFFF` ![#0077FF](https://via.placeholder.com/15/0077FF/000000?text=+) `#0077FF` ![#E5FF00](https://via.placeholder.com/15/E5FF00/000000?text=+) `#E5FF00` ![#FF00C8](https://via.placeholder.com/15/FF00C8/000000?text=+) `#FF00C8` ![#AD58D4](https://via.placeholder.com/15/AD58D4/000000?text=+) `#AD58D4`
-</center>
 
 # Installation
 
