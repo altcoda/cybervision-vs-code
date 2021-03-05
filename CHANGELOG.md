@@ -16,7 +16,7 @@ Fixed some links in package.json, etc.
 
 ## [1.0.3] - 2021-01-12
 
-Don't install this one.
+Don't install this one. Doesn't work.
 
 ## [1.0.4] - 2021-01-12
 
