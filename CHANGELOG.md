@@ -21,3 +21,6 @@ Don't install this one. Doesn't work.
 ## [1.0.4] - 2021-01-12
 
 Improved some colors for readability.
+
+## [1.0.7] - 2021-04-06
+
