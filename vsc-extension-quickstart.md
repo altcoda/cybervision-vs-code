@@ -1,6 +1,6 @@
 # Welcome to your VS Code Extension
 
-## What's in the folder
+## What's in the folderssS
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
