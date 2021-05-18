@@ -5,7 +5,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
 		"activityBar.activeBackground": "#ff00c8",
-		"activityBar.activeBorder": "v",
+		"activityBar.activeBorder": "#ff00c8",
 		"activityBar.activeFocusBorder": "#ffffff",
 		"activityBar.background": "#0f0d29",
 		"activityBar.border": "#00f7ff",
