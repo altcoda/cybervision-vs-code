@@ -2,13 +2,13 @@
 
 A dark, colorful theme inspired by cyberpunk and the 80-s.
 
-![theme screenshot preview](https://i.ibb.co/vdQcG9H/preview.png)
+![theme screenshot preview](https://i.ibb.co/HKC5htF/preview.png)
 
-![#01000A](https://via.placeholder.com/15/01000A/000000?text=+) `#01000A` ![#00FFFF](https://via.placeholder.com/15/00FFFF/000000?text=+) `#00FFFF` ![#0077FF](https://via.placeholder.com/15/0077FF/000000?text=+) `#0077FF` ![#E5FF00](https://via.placeholder.com/15/E5FF00/000000?text=+) `#E5FF00` ![#FF00C8](https://via.placeholder.com/15/FF00C8/000000?text=+) `#FF00C8` ![#AD58D4](https://via.placeholder.com/15/AD58D4/000000?text=+) `#AD58D4`
+![#0F0D29](https://via.placeholder.com/15/0F0D29/000000?text=+) `#0F0D29` ![#00FFFF](https://via.placeholder.com/15/00FFFF/000000?text=+) `#00FFFF` ![#0077FF](https://via.placeholder.com/15/0077FF/000000?text=+) `#0077FF` ![#E5FF00](https://via.placeholder.com/15/E5FF00/000000?text=+) `#E5FF00` ![#FF00C8](https://via.placeholder.com/15/FF00C8/000000?text=+) `#FF00C8` ![#AD58D4](https://via.placeholder.com/15/AD58D4/000000?text=+) `#AD58D4`
 
 # Installation
 
-1. Open the Extensions sidebar in VS Code. View → Extensions
+1. Open the Extensions sidebar in VS Code. View → Extension
 2. Search for Cybervision
 3. Click Install and reload your editor
 4. Navigate to File > Preferences > Color Theme > Cybervision
